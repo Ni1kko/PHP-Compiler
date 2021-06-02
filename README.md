@@ -34,7 +34,7 @@ Done.
 
 # Example Usage
 
-```
+```CS
 using System;
 using System.Threading.Tasks;
 using Fallox;//add our namespace
