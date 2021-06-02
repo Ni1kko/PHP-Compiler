@@ -1,8 +1,8 @@
 # PHP-Compiler
 Simple class witch handles compiling a .php script within C-Sharp
 
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://en.wikipedia.org/wiki/Open_source)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Ni1kko/PHP-Compiler/blob/master/LICENSE)
 
 ### Setup
 ---
