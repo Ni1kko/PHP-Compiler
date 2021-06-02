@@ -46,7 +46,7 @@ namespace FalloxTest
         internal static async Task Main()
         {
             //How to get contents
-            var filePath = "c:\\wwwroot\\index.php";
+            var filePath = @"c:\wwwroot\index.php";
             var page = await PHP.Compiler(filePath);
 
             //Show contents in console
